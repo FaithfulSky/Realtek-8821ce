@@ -1,0 +1,11 @@
+----- Thu 01/18/2024  8:12:19.10 ----- Installation BEGIN 
+Microsoft PnP Utility
+
+Adding driver package:  netrtwlane.inf
+Driver package added successfully. (Already exists in the system)
+Published Name:         oem24.inf
+Driver package is up-to-date on device: PCI\VEN_10EC&DEV_C821&SUBSYS_304A1A3B&REV_00\6&2007830&0&00100211
+
+Total driver packages:  1
+Added driver packages:  0
+----- Thu 01/18/2024  8:12:19.37 ----- Installation END 

@@ -1,0 +1,22 @@
+----- Thu 01/18/2024  8:12:30.00 ----- Uninstallation BEGIN 
+No devices were removed.
+No devices were removed.
+No devices were removed.
+No devices were removed.
+No devices were removed.
+No devices were removed.
+No devices were removed.
+No devices were removed.
+No devices were removed.
+No devices were removed.
+No devices were removed.
+No devices were removed.
+No devices were removed.
+PCI\VEN_10EC&DEV_C821&SUBSYS_304A1A3B&REV_00\6&2007830&0&00100211: Removed
+1 device(s) were removed.
+No devices were removed.
+No devices were removed.
+No devices were removed.
+Scanning for new hardware.
+Scanning completed.
+----- Thu 01/18/2024  8:12:33.28 ----- Uninstallation END 
